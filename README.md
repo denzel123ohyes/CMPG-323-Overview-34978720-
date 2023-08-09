@@ -18,8 +18,9 @@ Branching strategy:
 
 ![Screenshot (207)](https://github.com/denzel123ohyes/CMPG-323-Overview-34978720-/assets/112159975/c535ae1d-057e-4f88-bff8-863f7eff30f4)
 
-A total of four versions of the main branch will be present, to show how the project has progressed for the time it was first made to the final version. Five developer branches will be created, also called project branches, these branches will hold information about each project as the semester progesses, then finaly features will be created that will then feed into the developer branches, all features and branches will then feed into the main branch to return the final completerd version of the project at the send of the semesert.
-        
+A total of four versions of the main branch will be present, to show how the project has progressed from the time it was first made to the final version. Five developer branches will be created, also called project branches, these branches will hold information about each project as the semester progesses, then finaly features will be created that will then feed into the developer branches, all features and branches will then feed into the main branch to return the final completerd version of the project at the send of the semesert.
+
+The gitignore file is there to ensure that files that are not tracked by github remain untracked or that files that are unwanted to be ignored when adding code to the respected repositories, for instance when coding, Pycharm tends to create an additional file as a default start up which has no use the the project, therefore must be ignored. In the case of priject 1, a gitignore file is not preset due to project 1 being the planning nand scheduling phase of the project and requires no code ate the current moment.
 
 
 
