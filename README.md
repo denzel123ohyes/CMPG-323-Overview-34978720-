@@ -9,7 +9,8 @@ Repositories to be created:
 
 Diagram explaining project and repository context:
 
-![Screenshot (206)](https://github.com/denzel123ohyes/CMPG-323-Overview-34978720-/assets/112159975/bc94c985-8fd2-4e1d-a583-f8a3c14270a9)
+![Screenshot (208)](https://github.com/denzel123ohyes/CMPG-323-Overview-34978720-/assets/112159975/ed8adf6b-0bcd-4478-b9ab-e952816613b2)
+
 
 PROJECT 1:
 About: project 1 is the planing phase, this is where all the taskes are recorded, deadlines are added and a detailed step-by-step plan will be writen, the plan is then     folowed to aquier each goal on time.
