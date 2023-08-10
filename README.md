@@ -23,7 +23,12 @@ A total of four versions of the main branch will be present, to show how the pro
 
 The gitignore file is there to ensure that files that are not tracked by github remain untracked or that files that are unwanted to be ignored when adding code to the respected repositories, for instance when coding, Pycharm tends to create an additional file as a default start up which has no use the the project, therefore must be ignored. In the case of priject 1, a gitignore file is not preset due to project 1 being the planning nand scheduling phase of the project and requires no code ate the current moment.
 
+Chart 1: number of items by Lables
+![Screenshot (209)](https://github.com/denzel123ohyes/CMPG-323-Overview-34978720-/assets/112159975/bd490e98-db90-4472-b740-7a317874c92d)
 
+
+Chart 2: number of items by Status 
+![Screenshot (210)](https://github.com/denzel123ohyes/CMPG-323-Overview-34978720-/assets/112159975/de16495a-d9e8-4b95-a3dc-80b5a1c9549f)
 
     
 
