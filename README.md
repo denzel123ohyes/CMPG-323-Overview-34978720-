@@ -30,7 +30,9 @@ Chart 1: number of items by Status
 Chart 2: number of items by Lables
 ![Screenshot (210)](https://github.com/denzel123ohyes/CMPG-323-Overview-34978720-/assets/112159975/de16495a-d9e8-4b95-a3dc-80b5a1c9549f)
 
-    
+
+Chart 3: number of items by Sprint
+![Screenshot (211)](https://github.com/denzel123ohyes/CMPG-323-Overview-34978720-/assets/112159975/079652cd-7b21-4190-8c2c-4ebe202990d6)
 
     
   
