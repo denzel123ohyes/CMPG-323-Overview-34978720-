@@ -40,3 +40,5 @@ Chart 3: number of items by Sprint
 Chart 4: Burndown chart
 ![BD chart](https://github.com/denzel123ohyes/CMPG-323-Overview-34978720-/assets/112159975/749fff13-dcc8-41f2-8e62-72e64f2954d6)
 
+
+[Introduction to Github] (https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)
