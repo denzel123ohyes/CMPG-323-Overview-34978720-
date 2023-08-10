@@ -42,3 +42,5 @@ Chart 4: Burndown chart
 
 
 [Introduction to Github] (https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)
+[Run quality tests in your build pipeline by using Azure Pipelines] (https://learn.microsoft.com/en-us/training/modules/run-quality-tests-build-pipeline/)
+[Implement a code workflow in your build pipeline by using Git and GitHub] (https://learn.microsoft.com/en-us/training/modules/implement-code-workflow/)
