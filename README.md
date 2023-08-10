@@ -34,5 +34,7 @@ Chart 2: number of items by Lables
 Chart 3: number of items by Sprint
 ![Screenshot (211)](https://github.com/denzel123ohyes/CMPG-323-Overview-34978720-/assets/112159975/079652cd-7b21-4190-8c2c-4ebe202990d6)
 
-    
-  
+
+Chart 4: Burndown chart
+![BD chart](https://github.com/denzel123ohyes/CMPG-323-Overview-34978720-/assets/112159975/749fff13-dcc8-41f2-8e62-72e64f2954d6)
+
