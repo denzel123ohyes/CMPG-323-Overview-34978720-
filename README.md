@@ -26,6 +26,7 @@ The gitignore file is there to ensure that files that are not tracked by github 
 
 
 Chart 1: number of items by Status 
+
 ![Screenshot (209)](https://github.com/denzel123ohyes/CMPG-323-Overview-34978720-/assets/112159975/bd490e98-db90-4472-b740-7a317874c92d)
 
 
